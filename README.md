@@ -1,10 +1,10 @@
-# 🏠 House Price Prediction
+#  House Price Prediction
 
 > An end-to-end machine learning project for predicting residential property prices using feature engineering, regression model comparison, hyperparameter tuning, and model artifact generation.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project develops a machine learning pipeline to predict house prices from property characteristics such as area, bedrooms, bathrooms, stories, parking, amenities, location-related indicators, and furnishing status.
 
@@ -22,7 +22,7 @@ The workflow goes beyond simply training a single regression model. It includes:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Understand the factors associated with house prices.
 - Perform systematic exploratory data analysis.
@@ -34,7 +34,6 @@ The workflow goes beyond simply training a single regression model. It includes:
 
 ---
 
-## 📊 Dataset
 
 **Dataset:** Housing Price Dataset
 
